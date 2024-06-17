@@ -10,11 +10,11 @@ else
 fi
 NUMBER1=$1
 
-if [ $NUMBER1 -lt 10 ]
+if [ $NUMBER1 -lt 15 ]
 then
-    echo "Given number $NUMBER1 is less than 10"
+    echo "Given number $NUMBER1 is less than 15"
 else
-    echo "Given number $NUMBER1 is greater than 10" 
+    echo "Given number $NUMBER1 is greater than 105" 
 fi
 
 #-gt, -lt, -eq, -ge, -le
