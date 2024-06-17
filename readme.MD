@@ -13,5 +13,7 @@
 * Push the changes to GIthub /Central repo
  git push -u origin main
 
+--
+git add all files 
 
-
+git add . ; git commit -m "message" ; git push -u origin main 
