@@ -4,6 +4,8 @@
 PERSON1=$1
 PERSON2=$2
 
+#we can pass variables from commandpromt in EC2 SERVER
+
 #referring variable
 echo "$PERSON1:: Hello $PERSON2, How are you?"
 echo "$PERSON2:: Hi $PERSON1, I am fine. How are you?"
